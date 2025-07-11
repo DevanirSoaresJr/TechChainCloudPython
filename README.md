@@ -1,4 +1,7 @@
 # 🚀 TechChainCloudPython
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Azure](https://img.shields.io/badge/azure-deployment-blue)
 
 A beginner-to-pro-level Python journey, combining foundational scripting, cloud deployment, and AI experimentation — all built from scratch as part of my career transition into Python development and DevOps.
 
