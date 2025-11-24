@@ -58,4 +58,3 @@ This repo is public by design: to document progress, get feedback, and learn in 
   - ⏳ AZ-204 (Azure Developer Associate)
   - ⏳ Terraform Associate
 - Learn & deploy with Docker, GitHub Actions, Azure, Terraform
-- Launch a **LinkedIn-ready portfolio** by November 7th
